@@ -8,6 +8,7 @@
 
 <a href="/高级配置.md#邮件通知展示" target="_black">点击查看演示</a>
 
+> **注：本项目修改于 panjunwen 的项目 : [Valine-Admin](https://github.com/panjunwen/Valine-Admin)，原作者博客: [Valine Admin 配置手册](https://panjunwen.com/valine-admin-document/)**, (部分逻辑于功能不同，还请读者不要搞混配置项.)
 
 ## 快速开始
 
